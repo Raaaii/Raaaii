@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working at ENS [FC-RELAX](https://fcrelax.cerm.unifi.it/)
 
-- 🌱 I'm constantly expanding **my knowledge with various frameworks, courses, and technologies related to data science and ML.**
+- 🌱 I'm constantly expanding **my knowledge with various frameworks, courses, and technologies related to data science and ML/DL.**
 
 - 🤝 I'm seeking help and contributions **for my data-related projects, especially if they involve medical applications.**
 
-- 💬 Feel free to ask me **anything about ML, Monte Carlo Simulations, Data Science tools or discuss the intersection of data science with physics and healthcare.**
+- 💬 Feel free to ask me **anything about Machine Learning, Monte Carlo Simulations, and Data Science tools or discuss the intersection of data science with biophysics and healthcare.**
 
 - 📫 Reach me via <a href="mailto:p.r.rajka@gmail.com">e-mail</a>
 
-- ⚡ Fun Fact: **I'm on a mission to bridge the gap between the world of physics and the limitless possibilities of data science. Let's push the boundaries of knowledge together!**
+- ⚡ Fun Fact: **I'm on a mission to bridge the gap between the world of biophysics and the limitless possibilities of data science. Let's push the boundaries of knowledge together!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
