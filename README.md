@@ -11,7 +11,7 @@
 
 - 📫 Reach me via <a href="mailto:p.r.rajka@gmail.com">e-mail</a>
 
-- ⚡ Fun Fact: **I'm on a mission to bridge the gap between the world of biophysics and the limitless possibilities of data science. Let's push the boundaries of knowledge together!**
+- ⚡ Fun Fact: **: I've been jet-setting around for over 3 years, but I'm practically 1000% Balkanic! My passport may have stamps, but my heart has a permanent residency in the land of burek and rakija! **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
